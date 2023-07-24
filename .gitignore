@@ -1,0 +1,3 @@
+mangos-config/data
+mangos-config/data/*
+.DS*
